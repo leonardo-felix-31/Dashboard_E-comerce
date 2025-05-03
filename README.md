@@ -27,8 +27,8 @@ Todos esses arquivos foram importados e tratados no Power BI, utilizando o Power
 🔁 Processo ETL Completo
 O projeto contempla todo o fluxo de ETL (Extract, Transform, Load) diretamente no Power BI, destacando como é possível trabalhar com múltiplos formatos de dados em um único ambiente analítico.
 
-✨ Este projeto foi realizado com base no curso **Power BI Desktop: realizando ETL no Power Query
-** na plataforma da Alura: https://cursos.alura.com.br/course/power-bi-desktop-realizando-etl-power-query
+✨ Este projeto foi realizado com base no curso **Power BI Desktop: realizando ETL no Power Query**
+ na plataforma da Alura: https://cursos.alura.com.br/course/power-bi-desktop-realizando-etl-power-query
 
 
 
